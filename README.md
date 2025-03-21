@@ -147,7 +147,7 @@ $ cat /etc/motd
   <summary>🎯 Click to play a game of Snake!</summary>
   <br>
   <div align="center">
-    <a href="https://bhagyashree-j.github.io/Snake-game/" target="_blank">
+    <a href="https://bhagyashree-j.github.io/Snake_game/" target="_blank">
       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
     </a>
   </div>
