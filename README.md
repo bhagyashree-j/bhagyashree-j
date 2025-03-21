@@ -121,12 +121,13 @@ $ cat /etc/motd
   <summary>🧩 Click to solve a puzzle!</summary>
   <br>
   <div align="center">
-    <a href="https://bhagyashree-j.github.io/Puzzle_game/">
+    <a href="https://bhagyashree-j.github.io/Puzzle_game/" target="_blank">
       <img src="https://contrib.rocks/image?repo=bhagyashree-j/Puzzle_game" alt="Puzzle Game"/>
     </a>
     <p>Match the colors to solve the puzzle!</p>
   </div>
 </details>
+
 
 
 ## <span style="color:#FF00FF">></span> <span style="color:#00FFFF">CONNECT</span><span style="color:#FF00FF">::</span><span style="color:#00FFFF">INIT</span>
