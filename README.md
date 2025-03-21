@@ -47,8 +47,7 @@
     <p>"First solve the problem, then write the code. Not the other way around."</p>
   </details>
   
-  <br>
-  
+
   <h3>My Favorite Database is...</h3>
   <details>
     <summary>Click to discover!</summary>
@@ -56,7 +55,6 @@
     <p>It depends on the use case! The best engineers know when to use the right tool for the job.</p>
   </details>
   
-  <br>
   
   <h3>Nerdy Data Joke</h3>
   <details>
