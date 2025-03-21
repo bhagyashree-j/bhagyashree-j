@@ -1,20 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bhagyashree%20Jena&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner"/>
 </div>
-
 <p align="center">
   <i>Data Engineer • Cloud Architecture • ETL Specialist</i>
 </p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Elegant Programming"/>
 </div>
-
-
-
-
-
-
 
 <div align="center">
   <a href="https://linkedin.com/in/bhagyashree-jena">
@@ -25,8 +17,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=bhagyashree-j&style=for-the-badge&color=FF00FF" alt="Profile views"/>
 </div>
-
-<br>
 
 <br>
 
@@ -78,29 +68,6 @@
 
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## <span style="color:#FF00FF">></span> <span style="color:#00FFFF">SYSTEM</span><span style="color:#FF00FF">::</span><span style="color:#00FFFF">METRICS</span>
 
 <div align="center">
@@ -113,9 +80,6 @@
 </div>
 
 <br>
-
-
-
 
 ## <span style="color:#FF00FF">></span> <span style="color:#00FFFF">TERMINAL</span><span style="color:#FF00FF">::</span><span style="color:#00FFFF">ACCESS</span>
 
@@ -153,18 +117,19 @@ $ cat /etc/motd
   </div>
 </details>
 
-
 <details>
   <summary>🧩 Click to solve a puzzle!</summary>
   <br>
   <div align="center">
-    <a href="https://github.com/bhagyashree-j">
-      <img src="https://contrib.rocks/image?repo=bhagyashree-j/data-engineering-projects" alt="Puzzle"/>
+    <a href="https://bhagyashree-j.github.io/Puzzle_game/">
+
+    <a href="https://github.com/bhagyashree-j/Puzzle_game/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=bhagyashree-j/Puzzle_game" />
     </a>
-    <p>Click and drag the pieces to solve the puzzle!</p>
+    </a>
+    <p>Match the colors to solve the puzzle!</p>
   </div>
 </details>
-
 
 
 ## <span style="color:#FF00FF">></span> <span style="color:#00FFFF">CONNECT</span><span style="color:#FF00FF">::</span><span style="color:#00FFFF">INIT</span>
